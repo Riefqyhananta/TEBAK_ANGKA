@@ -1,2 +1,2 @@
-# TEBAK_ANGKA
+# TEBAK_KATA
 Tugas acak angka menggunakan C++ 
